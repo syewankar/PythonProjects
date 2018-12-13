@@ -1,2 +1,2 @@
 def f():
-    return 20
+    return 30
